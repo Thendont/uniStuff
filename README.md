@@ -4,4 +4,5 @@ Below are some commonly asked questions:
 ## What is my website for?
 Whatever I want it to be for.
 ## Why have you forced my people into slavery?
-Because I was in a silly goofy mood
+Because I was in a silly goofy mood, see below for possible reasons:
+
