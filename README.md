@@ -5,4 +5,4 @@ Below are some commonly asked questions:
 Whatever I want it to be for.
 ## Why have you forced my people into slavery?
 Because I was in a silly goofy mood, see here for possible reasons:
-[Terms and Conditions](https://thendont.github.io/uniStuff/TermsAndConditions/)
+[Terms and Conditions](/TermsAndConditions.md)
